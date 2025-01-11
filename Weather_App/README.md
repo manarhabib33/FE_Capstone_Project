@@ -18,4 +18,5 @@ The Weather Application is a React-based project that allows users to check the 
 - **React**: For building the user interface.
 - **Axios**: For fetching data from the OpenWeather API.
 - **CSS**: For styling and layout.
+- **OpenWeatherMap API**: For fetching weather data
 
